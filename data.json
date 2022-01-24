@@ -1,0 +1,29 @@
+[
+    {
+        "title" : "What is Computer?",
+        "subtitle" : "Computer is a machine that can be programmed to carry out sequences of operations automatically",
+        "img_url" : "https://cdn.pixabay.com/photo/2021/12/08/10/45/christmas-6855327_960_720.jpg",
+        "detail" : "A computer is a programmable device that stores, retrieves, and processes data. The term \"computer\" was originally given to humans (human computers) who performed numerical calculations using mechanical calculators, such as the abacus and slide rule. The term was later given to mechanical devices as they began replacing human computers. \n\nToday's computers are electronic devices that accept data (input), process that data, produce output, and store (storage) the results (IPOS)."
+    },
+
+    {
+        "title" : "What is Programmer?",
+        "subtitle" : "Computer is a machine that can be programmed to carry out sequences of operations automatically",
+        "img_url" : "https://cdn.pixabay.com/photo/2020/11/29/15/06/box-5788021_960_720.jpg", 
+        "detail" : "Alternatively referred to as a coder or software developer, a programmer is an individual who writes code or creates software for a living. \n\nMany programmers who program for a profession have a college degree in computer science. While each job differs, most programmers are responsible for creating the software program or parts of a program, debugging problems, or adding onto a program."
+    },
+
+    {
+        "title" : "What is Software?",
+        "subtitle" : "Computer is a machine that can be programmed to carry out sequences of operations automatically",
+        "img_url" : "https://cdn.pixabay.com/photo/2016/11/29/04/18/christmas-1867281_960_720.jpg", 
+        "detail" : "Sometimes abbreviated as SW and S/W, software is a collection of instructions that enable the user to interact with a computer, its hardware, or perform tasks. Without software, most computers would be useless. \n\nFor example, without your Internet browser software, you could not surf the Internet or read this page. Without an operating system, the browser could not run on your computer. The picture shows a Microsoft Excel box, an example of a spreadsheet software program."
+    },
+
+    {
+        "title" : "What is Software?",
+        "subtitle" : "Computer is a machine that can be programmed to carry out sequences of operations automatically",
+        "img_url" : "https://cdn.pixabay.com/photo/2021/12/20/16/36/snowflake-cookies-6883451_960_720.jpg", 
+        "detail" : "Sometimes abbreviated as SW and S/W, software is a collection of instructions that enable the user to interact with a computer, its hardware, or perform tasks. Without software, most computers would be useless. \n\nFor example, without your Internet browser software, you could not surf the Internet or read this page. Without an operating system, the browser could not run on your computer. The picture shows a Microsoft Excel box, an example of a spreadsheet software program."
+    }
+]
